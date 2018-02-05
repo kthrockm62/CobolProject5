@@ -9,6 +9,7 @@
 
        procedure division.
 
+            Display 'hello'.
            goback.
            
        end program Program1.
